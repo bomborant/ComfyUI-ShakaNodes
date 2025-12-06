@@ -14,7 +14,7 @@ Alternatively, you can do a manual install:
 2. Restart ComfyUI.
 3. The nodes will appear under the "ShakaNodes" category (or similar).
 
-## Quick summary**
+## Quick summary
 - ShakaWanKeyframes — Add a set of batch images and prepare a Wan Generation with multiple input images at any keyframe. Set indices to indicate where the images should be located and the weight of the input images. All other inputs are pretty much passthroughs (though used for some sanity checking too).
 - ShakaTensorDebug - Simply used to read out information about the tensors. Early days, but I want to use this node to help debug and understand what goes on behind the scenes in some of the nodes.
 
