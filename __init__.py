@@ -8,7 +8,7 @@ NODE_CLASS_MAPPINGS = {
 
 # A dictionary that contains the friendly/human-readable titles for the nodes
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "ShakaWanKeyframes": "🤙 Shaka Wan Keyframes To Video",
+    "ShakaWanKeyframes": "🤙 Shaka Wan Keyframes",
     "ShakaTensorDebug": "🤙 Shaka Tensor Debugger",
 }
 
