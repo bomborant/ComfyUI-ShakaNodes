@@ -1,0 +1,13 @@
+[project]
+name = "ComfyUI-ShakaTools"
+description = "ShakaTools: Utility tools for ComfyUI"
+version = "0.0.1"
+dependencies = ["torch"]
+
+[project.urls]
+Repository = "https://github.com/bomborant/ComfyUI-ShakaNodes"
+
+[tool.comfy]
+PublisherId = "Bomborant"
+DisplayName = "ComfyUI-ShakaTools"
+Icon = ""
